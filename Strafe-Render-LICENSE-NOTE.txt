@@ -1,0 +1,7 @@
+# Strafe Render project note
+
+The Strafe Render test project downloads MobileGlues 1.3.5 at build time.
+MobileGlues is licensed under LGPL-2.1.
+
+This repository does not include or redistribute the upstream source in this
+ZIP; GitHub Actions fetches it during the build.
